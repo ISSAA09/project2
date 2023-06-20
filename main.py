@@ -1,3 +1,4 @@
-from funcs import summation
+from funcs import summation, difference
 
 print(summation())
+print(difference())
